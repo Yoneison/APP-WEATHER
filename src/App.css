@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-image: url('https://img.freepik.com/fotos-premium/prado-cielo-soleado-nubes-verano-buen-dia_180547-3322.jpg?size=626&ext=jpg');
+    background-position: center;
+    background-size: cover;
+}
